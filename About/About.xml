@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Rimnosis - NSFW</name>
-	<author>WolfoftheWest </author>
+	<author>WolfoftheWest</author>
 	<packageId>wolfofthewest.rimnosis.nsfw</packageId>
 	<supportedVersions>
 		<li>1.2</li>
